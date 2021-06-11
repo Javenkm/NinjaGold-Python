@@ -1,0 +1,36 @@
+* {
+    width: 970px;
+    margin: auto;
+}
+
+#mainForms {
+    display: flex;
+}
+
+h1 {
+    margin: 15px 0px 5px 0px;
+}
+
+h2 {
+    margin: 10px 0px 5px 0px;
+}
+
+h3 {
+    margin-top: 15px;
+}
+
+p {
+    margin: 2px 0px 5px 0px;
+}
+
+form {
+    width: 250px;
+}
+
+button {
+    width: 150px;
+}
+
+#activityLog {
+    width: 970px;
+}
